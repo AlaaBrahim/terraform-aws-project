@@ -53,4 +53,3 @@ This repo is an initial draft. Future improvements include:
 - Integrating Packer for AMI creation.
 
 Feel free to contribute and stay tuned for updates!
-<img width="724" alt="infra" src="https://github.com/AlaaBrahim/terraform-aws-project/assets/111241310/7aeab386-0eca-4ceb-ac9e-af1a609840ea">
